@@ -1,0 +1,23 @@
+{
+  "name": "explodedviewgenerator",
+  "version": "1.0.0",
+  "description": "This script creates Exploed view of the object that was built with multiple objects. Based on the video tutorial from Joe Gunn 3D.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bogdanovicb@bitbucket.org/bogdanovicb/exploded-view-generator.git"
+  },
+  "author": "Bogdan Bogdanovic",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/bogdanovicb/exploded-view-generator#readme",
+  "devDependencies": {
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-shell": "^0.8.0",
+    "gulp-zip": "^5.0.2"
+  },
+  "dependencies": {}
+}
