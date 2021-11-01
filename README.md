@@ -9,7 +9,7 @@ Besides [3ds Max](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR
 2. [Dot Net SDK](https://dotnet.microsoft.com/download/dotnet/thank-you/sdk-3.1.414-windows-x64-installer)
 3. [Language MaxScript * Optional](https://marketplace.visualstudio.com/items?itemName=atelierbump.language-maxscript)
 
-## Setup:
+## Setup
 1. Clone the repo and store it on your hard drive
 2. Open folder (this cloned repo) from VS Code
 3. Open any file and run **Tasks: Run Task** (Ctrl+Shift+P) > Build Release. The terminal will open and the build will start. Wait for it to finish.
@@ -30,7 +30,7 @@ To package and distribute your scripts just run the "gulp" command from the Term
 
 The *gulp* and *encryptScript.ms* files are already configured to automatically encrypt all scripts that are stored inside the *src* folder and deliver them into the *dist* folder when the build process is complete.
 
-## List of MaxScripts:
+## List of MaxScripts
 
 * Curbs
 * Enable/Disable
