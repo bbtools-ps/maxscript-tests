@@ -23,25 +23,26 @@ From the VS Code select **Tasks: Run Task** (Ctrl+Shift+P) > Execute Script in 3
 
 ## Distributing scripts
 
-For the script distribution this project uses:
+For the script distribution it is required to have:
 
-* [Node.js](https://nodejs.org/en/)
-* [Gulp](https://gulpjs.com/)
+1. [Node.js](https://nodejs.org/en/)
+2. [Gulp.js](https://gulpjs.com/)
 
-After *Node.js* is installed make sure to install all the dependencies for this project by navigating to the project root folder using the *Terminal* from the VS Code and then just type:
+If Node.js is installed go to the project root folder and install all dependencies for the project by typing the following command inside the *Terminal*:
 
 ```
 npm install
 ```
 
-To package and distribute your scripts just type
+To start the build process make sure that you are in the project root folder and then type the following command inside the *Terminal*:
 
 ```
 gulp
 ```
-inside the Terminal (while being in the project root folder) or double-click the **distributeProject.bat** file from the Windows Explorer.
 
-The *gulp* and *encryptScript.ms* files are already configured to automatically encrypt all scripts that are stored inside the *src* folder and deliver them into the *dist* folder when the build process is complete.
+or just double-click the **distributeProject.bat** file.
+
+The *gulpfile.js* and *encryptScript.ms* files are already configured to automatically encrypt all scripts that are stored inside the *src* folder and deliver them into the *dist* folder when the build process is complete.
 
 **Note:** If there is an error with the command line "3dsmax is not recognized as internal or external command" you would need to add the environment variable. To fix this please follow these steps:
 
