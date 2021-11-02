@@ -1,4 +1,4 @@
-# MaxScript tests
+# MaxScript Tests
 
 This repo mainly focuses on the workflow setup for 3ds Max and Visual Studio Code. The MaxScripts are just used for testing various capabilities of 3ds Max. Because 3ds Max runs only on Windows following documentation is for Windows only.
 
