@@ -49,24 +49,23 @@ The *gulpfile.js* and *encryptScript.ms* files are already configured to automat
 1. Open the *Start Search*, type in "env", and choose "Edit the system environment variables".
 2. Click the *Environment Variables…* button.
 
-![Step 1](https://drive.google.com/uc?export=view&id=1bnkreCH5NoCBt0vDodjMIVWnxSMv3I_5)
+![Step 2](https://drive.google.com/uc?export=view&id=1bnkreCH5NoCBt0vDodjMIVWnxSMv3I_5)
 
 3. Under the *User Variables* find and select the *Path* variable.
 
-![Step 2](https://drive.google.com/uc?export=view&id=1l5E8783jjWEzz6Cosh91J03_-gG8NRbp)
-
+![Step 3](https://drive.google.com/uc?export=view&id=1l5E8783jjWEzz6Cosh91J03_-gG8NRbp)
 
 4. Click the *Edit* button.
 
-![Step 3](https://drive.google.com/uc?export=view&id=13EqRRi8GwspaBnCHuIFMhV-SDmBUKSD6)
+![Step 4](https://drive.google.com/uc?export=view&id=13EqRRi8GwspaBnCHuIFMhV-SDmBUKSD6)
 
 5. When new window opens click the *New* button.
 
-![Step 4](https://drive.google.com/uc?export=view&id=1JY1-dldqavMpHTxryuEmggO0EM2l1uMJ)
+![Step 5](https://drive.google.com/uc?export=view&id=1JY1-dldqavMpHTxryuEmggO0EM2l1uMJ)
 
 6. Type the path of the 3ds root folder, typically: "c:\Program Files\Autodesk\3ds Max *version number*\". This path will depend on which 3ds max version is installed.
 
-![Step 5](https://drive.google.com/uc?export=view&id=1hTHJRKjlOlKUCe_oPp1vcy2K8TNO4NAT)
+![Step 6](https://drive.google.com/uc?export=view&id=1hTHJRKjlOlKUCe_oPp1vcy2K8TNO4NAT)
 
 ## List of MaxScripts
 
